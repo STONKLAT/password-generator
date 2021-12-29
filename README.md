@@ -1,5 +1,7 @@
 # password-generator
 
+This was Forked from https://github.com/devloop01/password-generator
+
 Create random **passwords** using the password **generator** tool.
 
 Demo: https://codepen.io/dev_loop/full/vYYxvbz
